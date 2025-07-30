@@ -3,17 +3,17 @@
              fill="url(#myGradient)"
              transform="scale(0.7) translate(220,40)"/>
     <text font-style="italic" font-weight="bold" font-family="'Courier New'"
-          font-size="160" y="937" x="25" fill="url(#myGradient)">
-        SCX-COMMON
+          font-size="175" y="937" x="28" fill="url(#myGradient)">
+        SCX-BYTES
     </text>
     <text font-style="italic" font-weight="bold" font-family="'Courier New'"
-          font-size="160" y="930" x="25" fill="#ffffff" opacity="0.25">
-        SCX-COMMON
+          font-size="175" y="930" x="28" fill="#ffffff" opacity="0.25">
+        SCX-BYTES
     </text>
     <defs>
         <linearGradient id="myGradient" gradientTransform="rotate(90)">
-            <stop offset="0%" stop-color="#FFF346"/>
-            <stop offset="100%" stop-color="#FE6E00"/>
+            <stop offset="0%" stop-color="#ff70db"/>
+            <stop offset="100%" stop-color="#0037ff"/>
         </linearGradient>
     </defs>
 </svg>
