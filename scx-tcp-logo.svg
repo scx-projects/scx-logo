@@ -4,16 +4,16 @@
              transform="scale(0.7) translate(220,40)"/>
     <text font-style="italic" font-weight="bold" font-family="'Courier New'"
           font-size="210" y="937" x="61" fill="url(#myGradient)">
-        SCX-MVC
+        SCX-TCP
     </text>
     <text font-style="italic" font-weight="bold" font-family="'Courier New'"
           font-size="210" y="930" x="61" fill="#ffffff" opacity="0.25">
-        SCX-MVC
+        SCX-TCP
     </text>
     <defs>
         <linearGradient id="myGradient" gradientTransform="rotate(90)">
-            <stop offset="0%" stop-color="#ffd700"/>
-            <stop offset="100%" stop-color="#ff0000"/>
+            <stop offset="0%" stop-color="#FD8BD9"/>
+            <stop offset="100%" stop-color="#7742B2"/>
         </linearGradient>
     </defs>
 </svg>
