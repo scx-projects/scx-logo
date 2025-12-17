@@ -12,9 +12,9 @@
     </text>
     <defs>
         <linearGradient id="myGradient" gradientTransform="rotate(90)">
-            <stop offset="0%" stop-color="#FFC300"/> <!-- 明黄 -->
-            <stop offset="50%" stop-color="#FF851B"/> <!-- 橙黄 -->
-            <stop offset="100%" stop-color="#FF5733"/> <!-- 橙红 -->
+            <stop offset="0%" stop-color="#FFC300"/>
+            <stop offset="50%" stop-color="#FF851B"/>
+            <stop offset="100%" stop-color="#FF5733"/>
         </linearGradient>
     </defs>
 </svg>
