@@ -5,7 +5,7 @@
     <text font-style="italic" font-weight="bold" font-family="'Courier New'"
           font-size="0" y="920" x="26" fill="url(#myGradient)">
         <tspan fill="url(#myGradient)" font-size="132">SCX-JDBC-</tspan>
-        <tspan fill="#C11BFF" font-size="132">SPY</tspan>
+        <tspan fill="#32CD32" font-size="132">SPY</tspan>
     </text>
     <text font-style="italic" font-weight="bold" font-family="'Courier New'"
           font-size="132" y="915" x="26" fill="#ffffff" opacity="0.25">
