@@ -4,12 +4,12 @@
              transform="scale(0.7) translate(220,40)"/>
     <text font-style="italic" font-weight="bold" font-family="'Courier New'"
           font-size="0" y="920" x="24" fill="url(#myGradient)">
-        <tspan fill="url(#myGradient)" font-size="115">SCX-JDBC-</tspan>
-        <tspan fill="#C11BFF" font-size="115">MYSQL</tspan>
+        <tspan fill="url(#myGradient)" font-size="122">SCX-SQL-</tspan>
+        <tspan fill="#C11BFF" font-size="122">MYSQL</tspan>
     </text>
     <text font-style="italic" font-weight="bold" font-family="'Courier New'"
-          font-size="115" y="915" x="24" fill="#ffffff" opacity="0.25">
-        SCX-JDBC-MYSQL
+          font-size="122" y="915" x="24" fill="#ffffff" opacity="0.25">
+        SCX-SQL-MYSQL
     </text>
     <defs>
         <linearGradient id="myGradient" gradientTransform="rotate(90)">
